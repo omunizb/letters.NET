@@ -1,0 +1,13 @@
+C:\Users\oriol_000\source\repos\Ex2_FASE1\Ex2_FASE1\bin\Debug\netcoreapp3.1\Ex2_FASE1.exe
+C:\Users\oriol_000\source\repos\Ex2_FASE1\Ex2_FASE1\bin\Debug\netcoreapp3.1\Ex2_FASE1.deps.json
+C:\Users\oriol_000\source\repos\Ex2_FASE1\Ex2_FASE1\bin\Debug\netcoreapp3.1\Ex2_FASE1.runtimeconfig.json
+C:\Users\oriol_000\source\repos\Ex2_FASE1\Ex2_FASE1\bin\Debug\netcoreapp3.1\Ex2_FASE1.runtimeconfig.dev.json
+C:\Users\oriol_000\source\repos\Ex2_FASE1\Ex2_FASE1\bin\Debug\netcoreapp3.1\Ex2_FASE1.dll
+C:\Users\oriol_000\source\repos\Ex2_FASE1\Ex2_FASE1\bin\Debug\netcoreapp3.1\Ex2_FASE1.pdb
+C:\Users\oriol_000\source\repos\Ex2_FASE1\Ex2_FASE1\obj\Debug\netcoreapp3.1\Ex2_FASE1.csprojAssemblyReference.cache
+C:\Users\oriol_000\source\repos\Ex2_FASE1\Ex2_FASE1\obj\Debug\netcoreapp3.1\Ex2_FASE1.AssemblyInfoInputs.cache
+C:\Users\oriol_000\source\repos\Ex2_FASE1\Ex2_FASE1\obj\Debug\netcoreapp3.1\Ex2_FASE1.AssemblyInfo.cs
+C:\Users\oriol_000\source\repos\Ex2_FASE1\Ex2_FASE1\obj\Debug\netcoreapp3.1\Ex2_FASE1.csproj.CoreCompileInputs.cache
+C:\Users\oriol_000\source\repos\Ex2_FASE1\Ex2_FASE1\obj\Debug\netcoreapp3.1\Ex2_FASE1.dll
+C:\Users\oriol_000\source\repos\Ex2_FASE1\Ex2_FASE1\obj\Debug\netcoreapp3.1\Ex2_FASE1.pdb
+C:\Users\oriol_000\source\repos\Ex2_FASE1\Ex2_FASE1\obj\Debug\netcoreapp3.1\Ex2_FASE1.genruntimeconfig.cache

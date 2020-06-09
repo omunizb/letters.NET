@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nX3w69NMWbK4EIeq7WhKFaV9bUGWjs6Oxjsc+ltIkdjddX14dlF1miGHtnNuHxg2+GZIysnsdrXvZfP5iTi6Mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oriol_000\\source\\repos\\Ex2_FASE2\\Ex2_FASE2\\Ex2_FASE2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oriol_000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
