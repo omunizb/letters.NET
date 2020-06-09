@@ -11,18 +11,18 @@ namespace Ex2_FASE4
             List<char> name = new List<char>();
 
             name.Add('O');
-            name.Add('r');
-            name.Add('i');
-            name.Add('o');
-            name.Add('l');
+            name.Add('R');
+            name.Add('I');
+            name.Add('O');
+            name.Add('L');
 
             List<char> surname = new List<char>();
 
             surname.Add('M');
-            surname.Add('u');
-            surname.Add('ñ');
-            surname.Add('i');
-            surname.Add('z');
+            surname.Add('U');
+            surname.Add('N');
+            surname.Add('I');
+            surname.Add('Z');
 
             List<char> space = new List<char>();
             space.Add(' ');
@@ -31,7 +31,7 @@ namespace Ex2_FASE4
 
             foreach (char letter in fullName)
             {
-                Console.WriteLine(letter);
+                Console.Write(letter);
             }
         }
     }

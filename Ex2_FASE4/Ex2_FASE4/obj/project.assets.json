@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oriol_000\\source\\repos\\Ex2_FASE4\\Ex2_FASE4\\Ex2_FASE4.csproj",
+      "projectUniqueName": "C:\\Users\\oriol_000\\Documents\\IT Academy\\letters.NET\\Ex2_FASE4\\Ex2_FASE4\\Ex2_FASE4.csproj",
       "projectName": "Ex2_FASE4",
-      "projectPath": "C:\\Users\\oriol_000\\source\\repos\\Ex2_FASE4\\Ex2_FASE4\\Ex2_FASE4.csproj",
+      "projectPath": "C:\\Users\\oriol_000\\Documents\\IT Academy\\letters.NET\\Ex2_FASE4\\Ex2_FASE4\\Ex2_FASE4.csproj",
       "packagesPath": "C:\\Users\\oriol_000\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oriol_000\\source\\repos\\Ex2_FASE4\\Ex2_FASE4\\obj\\",
+      "outputPath": "C:\\Users\\oriol_000\\Documents\\IT Academy\\letters.NET\\Ex2_FASE4\\Ex2_FASE4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\oriol_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
